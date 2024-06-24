@@ -1,0 +1,23 @@
+{    "gym_ticket_prices" : {
+    "daily ticket": {
+        "duration": 1,
+        "price": 500
+    },
+    "1_month": {
+        "duration": 30,
+        "price": 5000
+    },
+    "3_months": {
+        "duration": 90,
+        "price": 12000
+    },
+    "6_months": {
+        "duration": 180,
+        "price": 25000
+    },
+    "year": {
+        "duration": 365,
+        "price": 50000
+    }
+}
+}

@@ -1,0 +1,10 @@
+{
+    "userID": null,
+    "hasAccess": true,
+    "lockerNumber": null,
+    "access_log": {
+        "access_id": null,
+        "entrance_timestamp": null,
+        "exit_timestamp": null
+    }
+}
